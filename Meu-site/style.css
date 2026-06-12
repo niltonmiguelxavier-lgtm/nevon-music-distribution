@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0a0f1e;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+.capa {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 20px;
+    margin: 1rem 0;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+}
+audio {
+    width: 100%;
+    margin: 1.5rem 0;
+}
+.links a {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: #1db954;
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.data {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    color: #aaa;
+}
